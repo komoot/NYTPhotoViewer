@@ -55,7 +55,7 @@ See [`CHANGELOG.md`](https://github.com/NYTimes/NYTPhotoViewer/blob/develop/CHAN
 
 ## Contributing
 
-Please **open pull requests against the `develop` branch**, and add a relevant note to the [`develop` section of the CHANGELOG](https://github.com/NYTimes/NYTPhotoViewer/blob/develop/CHANGELOG.md#develop) as part of your pull request.
+Please **open pull requests against the `master` branch**, and add a relevant note to the [`master` section of the CHANGELOG](https://github.com/NYTimes/NYTPhotoViewer/blob/develop/CHANGELOG.md#develop) as part of your pull request.
 
 ## Swift
 
